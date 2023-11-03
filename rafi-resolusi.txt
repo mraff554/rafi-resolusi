@@ -4,3 +4,6 @@ RAFI RESOLUSI
 -Konsisten belajar koding 1-2 jam sehari
 -bangun 1 projek sederhana tiap minggu
 -Evaluasi kerjaan tiap ba'da isya
+
+
+jadi ini tuh salah satu contoh branch yang baru gw buat
